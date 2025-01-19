@@ -14,11 +14,8 @@ I’m eager to contribute to projects that challenge my skills and provide oppor
 ---
 
 ## 🌐 Connect with Me
-- 📍 Dahanu, Maharashtra, India  
-- 📧 Email: [jaimikkadu@gmail.com](mailto:jaimikkadu@gmail.com)  
-- 📞 Phone: +91 8788369272  
+- 📧 Email: [jaimikkadu@gmail.com](mailto:jaimikkadu@gmail.com)   
 - 💼 [LinkedIn](https://linkedin.com/in/jaimik-kadu)  
-- 🐙 [GitHub](https://github.com/jaimik-kadu)
 
 ---
 
@@ -28,34 +25,6 @@ I’m eager to contribute to projects that challenge my skills and provide oppor
 - **Web Technologies**: HTML, CSS, JavaScript, React.js, PHP
 - **Databases**: MySQL, PostgreSQL, Oracle DB
 - **Other Tools**: Git, GitHub, Debugging, Problem-Solving
-
----
-
-## 📂 Featured Projects
-### [Online Supermarket Management System](https://github.com/jaimik-kadu/online-supermarket)  
-- **Tech Stack**: PHP, MySQL  
-- Designed a responsive grocery shopping platform with a user-friendly interface.  
-- Developed an admin panel to manage inventory and users, improving operational efficiency.
-
-### [React Movie Search](https://github.com/jaimik-kadu/react-movie-search)  
-- **Tech Stack**: React.js, REST API  
-- Created a dynamic movie search app with real-time search functionality and a ‘favorites’ feature.  
-- Optimized app performance for a seamless user experience.
-
-### [File Management Suite](https://github.com/jaimik-kadu/file-management-suite)  
-- **Tech Stack**: Python, Tkinter  
-- Developed a desktop app to organize files, detect duplicates, and manage media efficiently.  
-- Simplified complex file management processes to enhance productivity.
-
----
-
-## 🏆 Extracurricular Activities
-- **Co-Editor**, *The Edge Magazine* (2024 Edition)  
-  - Reviewed and compiled articles, coordinated a team of contributors.  
-- **Event Head**, *PixelHunt (Tech@Met Fest 2024)*  
-  - Organized and managed a keyword-based image search game.  
-- **Student Coordinator**, *SACA Council (MCA Batch 2023-25)*  
-  - Volunteered for academic and cultural events.
 
 ---
 
